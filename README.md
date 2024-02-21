@@ -1,6 +1,8 @@
 # mem_bench
 Running
 > bash run.sh CC
+## T4
+> bash run.sh 75
 ## A100
 > bash run.sh 80
 ## A10, A40
